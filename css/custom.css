@@ -1,0 +1,80 @@
+body{
+	background: url('flower2.jpg') no-repeat center center fixed; 
+  		-webkit-background-size: cover;
+  		-moz-background-size: cover;
+  		-o-background-size: cover;
+  	background-size: cover;
+}
+
+.quote{
+	background-color:black;
+	color:gold;
+	margin:0px 0px 0px 0px;
+	font-size: 30px;
+	padding:25px 0px 0px 0px;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
+.heads{
+	background-color:black;
+	height:130px;
+	margin:50px 30px 0px 30px;
+	opacity: 0.5;
+}
+
+.whyNot{
+	height:350px;
+	margin:50px 30px 0px 30px;
+	background-color: black;
+	color:gold;
+	opacity: 0.5;
+}
+
+.paris{
+	height:200px;
+	width:200px;
+	margin:80px 20px 0px 30px;
+}
+
+.sydney{
+	height:200px;
+	width:200px; 
+	margin:80px 20px 0px 20px;
+}
+
+.train{
+	height:200px;
+	width: 200px;
+	margin:80px 20px 0px 20px;
+}
+
+.wheel{
+	height:200px;
+	width: 200px;
+	margin:80px 20px 0px 20px;
+}
+
+.england{
+	height:200px;
+	width: 200px;
+	margin:80px 20px 0px 20px;
+}
+
+/*.pic{ 
+      width:200px; 
+      height:210px; 
+      background: url (http://wallpapertodays.com/wp-content/uploads/2014/07/Eiffel-Black-and-White-Photography.jpg) no-repeat; 
+    } 
+    .text{ 
+        width:200px; 
+        height:217px; 
+        background:#FFF;
+         opacity:0; 
+    } 
+        .pic:hover .text { 
+          opacity:0.6;
+         text-align:justify; 
+         font-size:18px;
+          font-weight:700;
+           font-family:"Times New Roman", Times, serif; padding:30px; } 
