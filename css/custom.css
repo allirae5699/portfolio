@@ -34,32 +34,38 @@ body{
 .paris{
 	height:200px;
 	width:200px;
+	display: inline-block;
 	margin:80px 20px 0px 30px;
 }
 
 .sydney{
 	height:200px;
 	width:200px; 
+	display: inline-block;
 	margin:80px 20px 0px 20px;
 }
 
-.arc{
+.rio{
 	height:200px;
 	width: 200px;
+	display: inline-block;
 	margin:80px 20px 0px 20px;
 }
 
-.wheel{
+.italy{
 	height:200px;
 	width: 200px;
+	display: inline-block;
 	margin:80px 20px 0px 20px;
 }
 
 .england{
 	height:200px;
 	width: 200px;
+	display: inline-block;
 	margin:80px 20px 0px 20px;
 }
+
 
 /*MENU*/
 
