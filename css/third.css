@@ -15,13 +15,13 @@ body{
 
 .banana{
 	color:gold;
-	font-size:30px;
+	font-size:35px;
 	text-align:center;
 	margin:30px 0px 0px 0px;
 	padding:30px 0px 0px 0px;
 	background-color: black;
-	font-family: 'Ubuntu', sans-serif;
-}
+  font-family: 'Playfair Display', serif;
+	}
 
 .used{
 	background-color:black;
