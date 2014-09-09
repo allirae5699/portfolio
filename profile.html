@@ -48,6 +48,20 @@
       <img class="england" src="images/england.jpg">
     </section>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <script type="text/javascript" src="js/the.js"></script>
+    <script type="text/javascript" src="js/the.js"></script>
+    <script type="text/javascript">
+    jQuery(function($){
+        $( '.menu-btn' ).click(function(){
+            $('.responsive-menu').addClass('expand')
+            $('.menu-btn').addClass('btn-none')
+        })
+        
+         $( '.close-btn' ).click(function(){
+            $('.responsive-menu').removeClass('expand')
+            $('.menu-btn').removeClass('btn-none')
+        })
+      })
+ </script>
+
   </body>
 </html>
